@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1636586026 source:c:\users\nagyj\source\repos\sudoku.singlesolver\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+	<string.h>
+	<time.h>
+
+1474527386 c:\users\nagyj\source\repos\sudoku.singlesolver\sudoku.h
+
+1636722915 source:c:\users\nagyj\source\repos\sudoku.singlesolver\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdint.h>
+	<math.h>
+	<assert.h>
+	"sudoku.h"
+

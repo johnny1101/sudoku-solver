@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1636846999 source:c:\users\nagyj\source\repos\sudoku.pthread\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdint.h>
+	<math.h>
+	<assert.h>
+	<pthread.h>
+	"sudoku.h"
+	<unistd.h>
+	<sys/types.h>
+
+1636847003 c:\users\nagyj\source\repos\sudoku.pthread\sudoku.h
+
+1636846878 source:c:\users\nagyj\source\repos\sudoku.pthread\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+	<string.h>
+	<time.h>
+	<pthread.h>
+	<unistd.h>
+	<sys/types.h>
+

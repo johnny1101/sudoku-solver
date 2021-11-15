@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1474527386 source:c:\users\nagyj\source\repos\sudoku.mpsolver\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+	<string.h>
+	<omp.h>
+
+1474527386 c:\users\nagyj\source\repos\sudoku.mpsolver\sudoku.h
+
+1474527386 source:c:\users\nagyj\source\repos\sudoku.mpsolver\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<omp.h>
+	<limits.h>
+	<stdint.h>
+	<math.h>
+	<assert.h>
+	"sudoku.h"
+
